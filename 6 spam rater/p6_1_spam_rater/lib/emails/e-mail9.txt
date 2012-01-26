@@ -1,0 +1,62 @@
+From Mike Chapple, your Guide to Databases
+Welcome to this week's edition of the About Databases newsletter. Today we take a look at SQL Server constraints, pivot tables and a number of other interesting database topics.
+
+SQL Server Constraints 
+Database constraints provide you with a way to enforce business logic within your database. In this series of articles, we explore the constraints available to you within Microsoft SQL... Read more
+
+Pivot Tables Tutorial 
+Pivot tables offer an inexpensive and easy solution to those who need some of the power of a database within the familiar environment of a spreadsheet package. Both Microsoft... Read more
+
+SQL Server Versions 
+Wondering what version of Microsoft SQL Server 2008 is right for your needs? It might be difficult to choose between the many options available to you: SQL Server Standard Edition SQL... Read more
+
+MySQL 
+Looking for a freeware database solution for your small business? MySQL provides a surprisingly robust feature set without the price tag of commercial products.
+
+ 	
+
+
+
+Databases Ads
+SQL Server
+SQL Databases
+Databases Compare
+Designing Databases
+Multivalue Databases
+Featured Articles
+	 Database Administration
+	 Database Design
+	 Database Development
+	 Data Mining and Data Warehousing
+	 Database Training
+	 Careers in Databases
+
+ 
+More from About.com
+
+Food and Mood 
+Indulging a sweet tooth can cause weight gain, guilt and even worsen depression. Here are a few expert tips to help you resist. More>
+
+
+
+Carb Cravings 
+Ever wondered why you crave carbs (or chocolate and sugar) when you're depressed? Some scientists say it may be chemical. More>
+
+
+
+
+This newsletter is written by: 
+Mike Chapple 
+Databases Guide 
+Email Me | My Blog | My Forum
+ 
+Sign up for more free newsletters on your favorite topics
+You are receiving this newsletter because you subscribed to the About Databases newsletter. If you wish to change your email address or unsubscribe, please click here. 
+
+About respects your privacy: Our Privacy Policy 
+
+Contact Information:
+249 West 17th Street
+New York, NY, 10011
+
+© 2011 About.com

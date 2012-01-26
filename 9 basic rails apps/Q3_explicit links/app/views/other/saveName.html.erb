@@ -1,0 +1,9 @@
+<p>Your name has been saved to the database </p>
+<% if @fname then %>
+     <p> Welcome <%= h @entry.first_name %>, let's go to the
+    <%= link_to 'next page', :controller => "other", :action => "index"  %>.</p>	
+
+
+<% end %>
+
+

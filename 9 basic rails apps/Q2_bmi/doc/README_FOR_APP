@@ -1,0 +1,7 @@
+Use this README file to introduce your application and point to useful places in the API for learning more.
+Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+
+
+this app calculates a person Body Mass Index
+fire up the rails server and go to home page http://localhost:3000/ to view the home page
+it uses a database to store the users info and allows you to edit it so different bmis can be calculated

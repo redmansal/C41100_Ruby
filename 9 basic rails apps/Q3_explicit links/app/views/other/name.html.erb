@@ -1,0 +1,17 @@
+<p> We are very pleased to welcome you our home mortgage page. </p>
+<p> Please enter your first and last name below: </p>
+
+<%= form_tag("saveName", :method => 'get') do %>
+  <p> First Name:
+	<%= text_field_tag 'fst_name' %>
+   <p> Last Name:
+	<%= text_field_tag 'lst_name' %>
+    <%= submit_tag 'send' %>
+    <% 
+    #Q3 answer 
+    #Yes is it is possible to move between pages without haveing to select an explicit link
+    #As can be seen in the name.html.erb file it is possible for the user to select the submit_tag send which is not an explicit link
+    #and be brought to the mathod saveName which then displays the page saveName.html.erb 
+    %>
+<% end %>
+

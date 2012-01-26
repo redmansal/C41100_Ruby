@@ -1,0 +1,35 @@
+Whitepapers & Technical Briefings    
+ 
+Choose the Right Active Directory Bridge Solution
+In this Quest Software white paper, see how to find the right Active Directory Bridge for your diverse IT environment. Read it today.
+
+
+Choosing a Cloud Hosting Provider with Confidence
+Cloud computing is rapidly transforming the IT landscape, and the conversation around adopting cloud technology has progressed from ‘if’ to ‘when’. Enterprises are showing strong interest in outsourced (‘public’) cloud offerings that can help them reduce costs and increase business agility. These cloud services offer enormous economic benefits, but they also pose significant potential risks for enterprises that must safeguard corporate information assets while complying with a myriad of industry and government regulations.
+ 
+
+5 Reasons Why Network-Based Application Performance Management (APM) Is Necessary for Cloud-Enabled IT Environments
+Virtualization and cloud computing have morphed quickly from business buzzwords into IT reality. While most IT teams have made the leap based on promises of efficiency and cost savings, the transition has proven much more difficult  than  anticipated.    Understand how IT managers can regain lost visibility and keep up with the rapid pace of change by implementing network-based application performance management (APM) solutions that adapt to dynamic environments and do not require complex agent-based deployments.
+
+
+Best Practices and Applications of TLS/SSL
+TLS (Transport Layer Security), widely known as SSL (Secure Sockets Layer), is the most well known method to secure your web site. But it can also be used for much more.   Read the white paper, "Best Practices and Applications of TLS/SSL," to learn how TLS works, best practices for its use and the various applications in which it can secure business computing.
+ 
+ 
+Enhanced Insight Leads to Fast ROI and Better Service
+When AutoDesk moved to outsource the management of its IT Infrastructure to MSP's, they faced many new challenges associated with continued growth, new products and integration of technologies.  They needed a way to improve visability across the enterprise, monitor SLA performance and make error identification/resolution more efficient.  Understand how AutoDesk was able to improve customer service, reduce problem resolution times and achieve ROI within 6 months.
+
+ 
+Intelligent Layer 7 DoS and Brute Force Protection for Web Applications
+Both Denial-of-Service (DoS) and Brute Force Attacks have existed for many years, and many network devices tout the ability to withstand them. However, most of today’s DoS attacks target layer 7 (L7) by overwhelming applications with seemingly valid requests and Brute Force programs can send more than one million attempts per second. This paper will discuss how to intelligently mitigate these types of attacks.
+ 
+ 
+You are subscribed to this Resource Newsletter as colmnolan@gmail.com 
+ 
+To unsubscribe from all of our mailings, click here or send an email to: globalunsub-2010001400@elabs10.com with the address: colmnolan@gmail.com in the subject line.
+ 
+To ensure delivery of this newsletter to your inbox and to enable images, please add sourceforge@resources.sourceforge.com to your e-mail address book or safe senders list.
+
+SourceForge  |  594 Howard Street,  Suite 300  |  San Francisco, CA  94105
+
+To view our Privacy Policy click here.

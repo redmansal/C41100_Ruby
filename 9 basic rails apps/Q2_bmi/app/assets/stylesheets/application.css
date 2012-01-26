@@ -1,0 +1,43 @@
+/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+ *= require_self
+ *= require_tree . 
+*/
+
+body
+{
+background-color:#d0e4fe;
+}
+h1
+{
+color:blue;
+text-align:center;
+}
+p
+{
+font-family:"Times New Roman";
+font-size:20px;
+text-align:center;
+}
+#container_main {
+	height: auto;
+	width: 960px;
+        padding-right:20px;
+        padding-left:20px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #e8e8e8;
+}
+
+#bottom_footer {
+	height: 100px;
+	width: 960px;
+	
+        background-color:#a7adff        
+        /*background-image:url(fruit_mixed.png);*/ 
+
+}
+
+

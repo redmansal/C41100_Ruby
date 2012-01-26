@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bmi</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<div id="container_main">
+      <div id="bottom_footer">
+
+    <%= link_to 'Home', :controller=> "home", :action => 'index' %>
+    <%= link_to 'Details', :controller=> "details", :action => 'index' %>
+    <%= link_to 'BMI Calculation', :controller=> "result", :action => 'index' %>
+      </div>
+
+
+
+    <%= yield %>
+      <div id="bottom_footer">
+          footer
+      </div>
+
+
+</div>
+
+
+
+
+</body>
+</html>

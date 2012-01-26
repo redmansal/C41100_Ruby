@@ -1,0 +1,8 @@
+Use this README file to introduce your application and point to useful places in the API for learning more.
+Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+
+
+Q3 answer 
+Yes is it is possible to move between pages without haveing to select an explicit link
+As can be seen in the name.html.erb file it is possible for the user to select the submit_tag send which is not an explicit link
+and be brought to the mathod saveName which then displays the page saveName.html.erb 
